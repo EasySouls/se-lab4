@@ -1,0 +1,4 @@
+# Create a ship with a failed primary store and a working secondary store
+GT4500,1,1,1,0
+# Tries to fire both and succeeds since at least one of the stores is working
+TORPEDO,ALL

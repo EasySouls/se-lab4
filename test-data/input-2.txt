@@ -1,0 +1,4 @@
+GT4500,2,0,2,0 # Create a ship with two torpedo stores that never fail and has two torpedoes
+TORPEDO,ALL # should fire from both stores with success
+TORPEDO,ALL # should fire from both stores with success
+TORPEDO,ALL # should fire from both stores with failure, since they are empty
